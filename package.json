@@ -1,0 +1,22 @@
+{
+  "name": "testes-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisP30/testes-software.git"
+  },
+  "author": "Luis Henrique de Queiroz Pimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisP30/testes-software/issues"
+  },
+  "homepage": "https://github.com/LuisP30/testes-software#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
